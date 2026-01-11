@@ -1,0 +1,12 @@
+
+fastapi
+uvicorn
+pdfplumber
+sentence-transformers
+faiss-cpu
+pymupdf
+opencv-python
+pillow
+openai
+numpy
+python-multipart
